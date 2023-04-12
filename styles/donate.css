@@ -203,3 +203,45 @@
     background-color: gray;
     position: center;
 }
+/* contac style */
+.contac{
+    background-color: rgba(255, 255, 0, 0.342);
+    text-align: center;
+    /* background-size: cover; */
+    margin: 30px 300px;
+    padding: 60px;
+    gap: 0;
+}
+input{
+    background-color: rgba(145, 140, 140, 0.61);
+    height: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0 ;
+    border-radius: 10px 0 0 10px;
+    padding: 1px 50px;
+    margin-right: 10px 0 10px 10px;
+    
+}
+.btn-con{
+    color: white;
+    background-color: red;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+    border-radius: 0 10px 10px 0;
+    padding: 8px 60px;
+    margin-right: 10px;
+}
+/* footer style */
+footer{
+    background-color: black;
+    padding-bottom: 60px;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+.foot-color{
+    color: red;
+}
